@@ -1,0 +1,16 @@
+{
+  "name": "customblockkchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon logCoin.js",
+    "prod":"node logCoin.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
